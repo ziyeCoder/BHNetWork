@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BHNetWork_Example' do
+  pod 'BHNetWork', :path => '../'
+
+  target 'BHNetWork_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
