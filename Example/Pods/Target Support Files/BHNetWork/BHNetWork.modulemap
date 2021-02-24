@@ -1,0 +1,6 @@
+framework module BHNetWork {
+  umbrella header "BHNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

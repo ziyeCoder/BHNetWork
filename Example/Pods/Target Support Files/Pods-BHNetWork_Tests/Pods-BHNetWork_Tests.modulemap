@@ -1,0 +1,6 @@
+framework module Pods_BHNetWork_Tests {
+  umbrella header "Pods-BHNetWork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

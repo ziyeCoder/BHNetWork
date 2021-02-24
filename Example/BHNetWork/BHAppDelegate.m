@@ -7,6 +7,7 @@
 //
 
 #import "BHAppDelegate.h"
+#import "SHBase.h"
 
 @implementation BHAppDelegate
 
